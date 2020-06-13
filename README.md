@@ -1,1 +1,1 @@
-# Shipping Metrics Email Templates
+# Shipping Metrics Templates
