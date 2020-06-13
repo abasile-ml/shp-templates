@@ -1,1 +1,1 @@
-# kibana-email-template
+# Shipping Metrics Email Templates
